@@ -103,6 +103,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 - [NIP-96: HTTP File Storage Integration](96.md) --- **unrecommended**: replaced by blossom APIs
 - [NIP-98: HTTP Auth](98.md)
 - [NIP-99: Classified Listings](99.md)
+- [NIP-100: WebRTC Signaling](100.md)
 - [NIP-A0: Voice Messages](A0.md)
 - [NIP-A4: Public Messages](A4.md)
 - [NIP-B0: Web Bookmarks](B0.md)
@@ -229,6 +230,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 | `23195`       | Wallet Response                 | [47](47.md)                            |
 | `24133`       | Nostr Connect                   | [46](46.md)                            |
 | `24242`       | Blobs stored on mediaservers    | [Blossom][blossom]                     |
+| `25050`       | WebRTC Signaling                | [100](100.md)                          |
 | `27235`       | HTTP Auth                       | [98](98.md)                            |
 | `28934`       | Join Request                    | [43](43.md)                            |
 | `28935`       | Invite Request                  | [43](43.md)                            |
